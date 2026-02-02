@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Hi, I'm Umer Iqbal | Full-Stack Web Developer
 
-<!--
-**m-umer-iqbal/m-umer-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack & Next.js**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose ODM](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### **API & Architecture**
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Full-Stack Framework**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### **[URL to url Converter](https://github.com/m-umer-iqbal/P24-Next-URL-to-url-Converter)**
+- **Full-stack URL management platform with custom aliases and social authentication**
+- **Features:** • Custom short URLs • Secure social login (Google/GitHub/Linkedin/Facebook) • User dashboard • Mobile-responsive
+- **Tech:** Next.js 15 | MongoDB | NextAuth.js | Tailwind CSS | Cloudinary
+
+### **[Barely Social](https://github.com/m-umer-iqbal/P23-React-Barely-Social)**
+- **Full-stack MERN social media platform for content sharing and user connections**
+- **Features:** • Multi-provider login (Email/Google/Facebook/GitHub) • Post creation with Cloudinary images • Follow system • Real-time interactions
+- **Tech:** React | Node.js | Express | MongoDB | Passport.js | Cloudinary | Tailwind CSS
+
+### **[Secrets](https://github.com/m-umer-iqbal/P21-Authentication-and-Security-Secrets)**
+- **Secure anonymous secret-sharing platform with bcrypt encryption**
+- **Features:** • Anonymous secret sharing • Bcrypt password hashing • Google/Facebook OAuth login • Session authentication
+- **Tech:** Node.js | Express | MongoDB | Passport.js | Bcrypt | OAuth 2.0 | Bootstrap 5
+
+### **[Melodify](https://github.com/m-umer-iqbal/P14-Melodify)**
+- **Vanilla JavaScript music streaming player with no backend**
+- **Features:** • Full playback controls (play/pause/skip) • Progress & volume bars • Repeat/shuffle modes • Dynamic music library
+- **Tech:** HTML5 Audio API | Vanilla JavaScript | CSS3 | JSON | Responsive Design
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umer-iqbal-313a262b2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://umeriqbal-portfolio.vercel.app/)
+
+---
+
+## 🎯 Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+
+**💡 Open to collaboration on exciting MERN/Next.js projects! Let's build something amazing together.**
+
+*"Every expert was once a beginner, and I’m excited to keep growing and sharing my journey ✨"*
+
+---
+
+## ⚡ Quick Facts
+- 🔭 **Currently working on:** ...
+- 🌱 **Currently learning:** Docker
+- 👯 **Looking to collaborate on:** Open-source MERN-Stack & Next.js projects
+- 💬 **Ask me about:** MERN stack, Next.js optimizations
+- ⚡ **Fun fact:** When I'm not coding, you'll find me playing Cricket or in Gym or Reading books or Watching movies, web-series and anime
+
+---
+
+*Last Updated: 2nd-February-2026*

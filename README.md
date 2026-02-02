@@ -66,12 +66,6 @@
 
 ---
 
-## 🎯 Currently Learning
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 
 **💡 Open to collaboration on exciting MERN/Next.js projects! Let's build something amazing together.**
 
@@ -80,7 +74,7 @@
 ---
 
 ## ⚡ Quick Facts
-- 🔭 **Currently working on:** ...
+- 🔭 **Currently working on:** A website that reviews user's cv and if bought premium it also gives suggestion to the user based on the job description
 - 🌱 **Currently learning:** Docker
 - 👯 **Looking to collaborate on:** Open-source MERN-Stack & Next.js projects
 - 💬 **Ask me about:** MERN stack, Next.js optimizations

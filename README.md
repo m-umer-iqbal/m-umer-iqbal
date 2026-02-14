@@ -1,8 +1,24 @@
-# 👋 Hi, I'm Umer Iqbal | Full-Stack Web Developer
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Hi,%20I'm%20Umer%20Iqbal&&fontAlignY=35&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-**MERN Stack & Next.js**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;JavaScript+Developer)](https://git.io/typing-svg)
 
----
+</div>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/m-umer-iqbal?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/m-umer-iqbal)
+[![GitHub Stars](https://img.shields.io/github/stars/m-umer-iqbal?logo=github&style=for-the-badge&color=yellow)](https://github.com/m-umer-iqbal)
+[![Profile Views](https://komarev.com/ghpvc/?username=m-umer-iqbal&color=00d9ff&style=for-the-badge)](https://github.com/m-umer-iqbal)
+
+</div>
+
+<div align="center">
+
+### 💼 Open to **Internships**, **Freelance Projects** & **Research Collaborations**
+
+</div>
 
 ## 🚀 Technical Skills
 
@@ -35,6 +51,12 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-umer-iqbal&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+</div>
+
 ## 🌟 Featured Projects
 
 ### **[URL to url Converter](https://github.com/m-umer-iqbal/P24-Next-URL-to-url-Converter)**
@@ -63,23 +85,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umer-iqbal-313a262b2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://umeriqbal-portfolio.vercel.app/)
-
----
-
-
-**💡 Open to collaboration on exciting MERN/Next.js projects! Let's build something amazing together.**
-
-*"Every expert was once a beginner, and I’m excited to keep growing and sharing my journey ✨"*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.umer.iqbal@gmail.com)
 
 ---
 
 ## ⚡ Quick Facts
 - 🔭 **Currently working on:** A website that reviews user's cv and if bought premium it also gives suggestion to the user based on the job description
-- 🌱 **Currently learning:** Docker
+- 🌱 **Currently learning:** Typescript
 - 👯 **Looking to collaborate on:** Open-source MERN-Stack & Next.js projects
 - 💬 **Ask me about:** MERN stack, Next.js optimizations
 - ⚡ **Fun fact:** When I'm not coding, you'll find me playing Cricket or in Gym or Reading books or Watching movies, web-series and anime
 
 ---
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/m-umer-iqbal/m-umer-iqbal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=160&section=footer" width="100%"/>
+
+</div>

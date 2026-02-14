@@ -82,4 +82,4 @@
 
 ---
 
-*Last Updated: 2nd-February-2026*
+![Snake animation](https://raw.githubusercontent.com/m-umer-iqbal/m-umer-iqbal/output/github-contribution-grid-snake-dark.svg)

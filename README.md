@@ -58,9 +58,7 @@
 
   <p><strong>Umer Iqbal's GitHub Streak</strong></p>
 
-<a href="https://github.com/m-umer-iqbal">
-  <img src="https://streak-stats.demolab.com?user=m-umer-iqbal&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=m-umer-iqbal&theme=dark&cache_seconds=1800&v=3" />
 </div>
 
 ## 🌟 Featured Projects

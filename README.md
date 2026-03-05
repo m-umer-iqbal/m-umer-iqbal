@@ -9,7 +9,6 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/m-umer-iqbal?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/m-umer-iqbal)
-[![GitHub Stars](https://img.shields.io/github/stars/m-umer-iqbal?logo=github&style=for-the-badge&color=yellow)](https://github.com/m-umer-iqbal)
 [![Profile Views](https://komarev.com/ghpvc/?username=m-umer-iqbal&color=00d9ff&style=for-the-badge)](https://github.com/m-umer-iqbal)
 
 </div>

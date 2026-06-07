@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=220&section=header&text=Hi,%20I'm%20Umer%20Iqbal&&fontAlignY=35&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;JavaScript+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Web+Developer;Frontend+Web+Developer;Backend+Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,6 +41,7 @@
 
 ### **Full-Stack Framework**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,10 +78,10 @@
 - **Features:** • Anonymous secret sharing • Bcrypt password hashing • Google/Facebook OAuth login • Session authentication
 - **Tech:** Node.js | Express | MongoDB | Passport.js | Bcrypt | OAuth 2.0 | Bootstrap 5
 
-### **[Melodify](https://github.com/m-umer-iqbal/P14-Melodify)**
-- **Vanilla JavaScript music streaming player with no backend**
-- **Features:** • Full playback controls (play/pause/skip) • Progress & volume bars • Repeat/shuffle modes • Dynamic music library
-- **Tech:** HTML5 Audio API | Vanilla JavaScript | CSS3 | JSON | Responsive Design
+### **[NERD](https://github.com/m-umer-iqbal/FYP-NERD)**
+- **Award-worthy Final Year Project designed to eliminate repetitive tasks and simplify debugging for frontend developers**
+- **Features:** • Smart Form Saver with automatic page detection • Website Analyzer for performance, accessibility, and SEO audits • AI-inspired Debugging Assistant with error explanations and code suggestions
+- **Tech:** React.js | JavaScript | Tailwind CSS | Chrome Extension APIs | DOM APIs | Local Storage API
 
 ---
 

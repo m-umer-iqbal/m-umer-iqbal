@@ -35,6 +35,7 @@
 ### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose ODM](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **API & Architecture**
 ![RESTful API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -48,6 +49,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
